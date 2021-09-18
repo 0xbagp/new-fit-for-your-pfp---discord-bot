@@ -1,0 +1,53 @@
+[
+  {
+    "smbId": "970",
+    "imagePath": "output/images/78d3e37b14732b90b3009fc661ca1c78.png",
+    "imageSrc": "https://media.howrare.is/images/smb/78d3e37b14732b90b3009fc661ca1c78.png",
+    "attributes": {
+      "rank": {
+        "value": "3060",
+        "percentile": null
+      },
+      "score": {
+        "value": "999",
+        "percentile": null
+      },
+      "attributeCount": {
+        "value": "2",
+        "percentile": 45.98
+      },
+      "type": {
+        "value": "Purple",
+        "percentile": 13.26
+      },
+      "clothes": {
+        "value": "Military Vest",
+        "percentile": 3.58
+      },
+      "ears": {
+        "value": null,
+        "percentile": 78.08
+      },
+      "mouth": {
+        "value": null,
+        "percentile": 73.64
+      },
+      "eyes": {
+        "value": null,
+        "percentile": 71.54
+      },
+      "hat": {
+        "value": "White Headset",
+        "percentile": 2.54
+      },
+      "background": {
+        "value": "Green",
+        "percentile": null
+      },
+      "lastSale": {
+        "value": "4.9 SOL",
+        "percentile": null
+      }
+    }
+  }
+]

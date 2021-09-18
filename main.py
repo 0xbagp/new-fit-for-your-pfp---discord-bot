@@ -10,8 +10,8 @@ from PIL import Image
 # discord bot
 bot = commands.Bot(command_prefix="!")
 
-# Opening JSON file with pfps
-data = open('sample.json', )
+# Opening JSON file with pfps. Add your open file and update it to match the name here
+data = open('attributes.json', )
 
 # Folder locations for clean pfps, completed pfps, and outfits
 

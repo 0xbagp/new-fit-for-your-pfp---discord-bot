@@ -2,7 +2,8 @@
 
 This bot was initially created for the MonkeyDAO to help SMBs suit up for Christie's in support of BAYC. It became a hit within the community and we've had a ton of fun with it, so I thought I'd open source it for you to use in your own community. 
 
-![clean_pfp](./docs/imgs/970.png)
+## Magic
+![clean_pfp](/docs/img/970.png) ![suit](/docs/img/suit.png)![pfp_with_fit](/docs/img/dressed970.png)
 
 ## Setup
 

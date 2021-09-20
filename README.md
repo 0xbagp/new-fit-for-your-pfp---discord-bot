@@ -27,7 +27,7 @@ The command **!fits** will list all of the fitst defined in the "outfits" list s
 
 I hope your community has fun with this! 
 
-If your community loves it and you want to throw me a tip you can do so below: 
+If they do, and you're feeling generous, send me an NFT so I can join :) 
 
 * **SOL:** C5XYM4RDtEdKm5NhDLhYJ7gH4vNRocna5qYb1pCThNa
 * **ETH:** 0xAf1c16F1370dEdad2784287595f9152D8A1575d3
